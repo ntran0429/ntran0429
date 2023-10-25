@@ -13,14 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Nguyen</h1>
-<h3 align="center">A Mathematics student using data to drive decision making.</h3>
+### Hi there 👋, I'm Nguyen!
+### I use data to drive decision making.
+### Connect with me: nguyentran3@my.unt.edu
 
-- 📫 How to reach me **nguyentran3@my.unt.edu**
+---
+### :gear: Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+* **Languages**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)
+  ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge)
+  ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
+  
+
+* **Tools**
+
+  ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge)
+  ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge)
+  ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+  ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
+
+### 💻 Projects (comming soon)
+I enjoy navigating the world of data. That's why I am currently working on a few data analytics projects in my free time to showcase here. Besides working on my technical skills (SQL, Power BI, Python, R), I understand that communicating how actionable findings meet business requirements is also important, therefore my projects will reflect both my passion for data and the practical actions a business can take.
+
+
+
