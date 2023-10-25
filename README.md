@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Nguyen!
 ### I use data to drive decision making.
-### Connect with me: nguyentran3@my.unt.edu
+### Connect with me via [Linkedin](https://www.linkedin.com/in/nguyen-tran-unt/) and email nguyentran3@my.unt.edu
+
 
 ---
 ### :gear: Tech Stack
@@ -34,8 +35,8 @@ Here are some ideas to get you started:
   ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
   ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
 
-### 💻 Projects (comming soon)
-I enjoy navigating the world of data. That's why I am currently working on a few data analytics projects in my free time to showcase here. Besides working on my technical skills (SQL, Power BI, Python, R), I understand that communicating how actionable findings meet business requirements is also important, therefore my projects will reflect both my passion for data and the practical actions a business can take.
+### 💻 Projects (coming soon)
+I enjoy navigating the world of data. That's why I am currently working on a few data analytics projects in my free time to showcase here. Besides working on my technical skills (SQL, Power BI, Python, R), I understand that communicating how actionable findings meet business requirements is also important, thus my projects will reflect both my passion for data and the practical actions a business can take.
 
 
 
