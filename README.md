@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I'm Nguyen!
-### I use data to make informed decisions.
+### I use data to satisfy my curiosity and guide my decisions.
 ### Connect with me via: [Linkedin](https://www.linkedin.com/in/nguyen-tran-unt/), email nguyentran3@my.unt.edu
 
 
