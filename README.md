@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Nguyen!
 ### I use data to feed my curiosity and make informed decisions. 
-### How to reach me: [Linkedin](https://www.linkedin.com/in/nguyen-tran-unt/), email nguyentran3@my.unt.edu
+### How to reach me: [LinkedIn](https://www.linkedin.com/in/nguyen-tran-unt/), email nguyentran3@my.unt.edu
 
 
 <!--badges sourced from https://badges.pages.dev -->
