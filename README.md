@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I'm Nguyen!
-### I use data to feed my curiosity and make informed decisions. 
+### I am a naturally curious and practical person, and I use data to answer questions and make informed decisions.
 ### How to reach me: [LinkedIn](https://www.linkedin.com/in/nguyen-tran-unt/), email nguyentran3@my.unt.edu
 
 
