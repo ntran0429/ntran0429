@@ -35,6 +35,11 @@ Here are some ideas to get you started:
   ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
   ![Microsoft Azure Badge](https://img.shields.io/badge/%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
 
+* **Certifications**
+
+  Microsoft Power BI Data Analyst Associate
+
+
 ### 💻 Projects
 I enjoy using data to solve problems. That's why I am currently working on a few data projects in my free time to showcase here. Besides working on my technical skills, I understand that communicating how actionable findings meet business requirements is very important. Thus my projects will reflect both my passion for data and the practical actions a business can take.
 
