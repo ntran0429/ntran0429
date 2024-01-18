@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
   ![Microsoft Azure Badge](https://img.shields.io/badge/%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
 
-* **Certifications**
+### ✅ Certifications
 
   Microsoft Power BI Data Analyst Associate
 
