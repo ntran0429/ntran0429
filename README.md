@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### ☑️ Certifications
 
-  Microsoft Power BI Data Analyst Associate
+  * Microsoft Power BI Data Analyst Associate
 
 
 ### 💻 Projects
