@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I'm Nguyen!
-### Everyday I learn and use data to answer questions and make informed decisions.
+### 💻 I'm currently working as a Data Developer
+### ⚡ I enjoy building data pipelines and machine learning models to analyze real estate and sports data
+### :mortar_board: I have a bachelors in Mathematics
+
 ### How to reach me: [LinkedIn](https://www.linkedin.com/in/nguyen-tran-unt/), email nguyentran3@my.unt.edu
 
 
